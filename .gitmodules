@@ -1,0 +1,3 @@
+[submodule "pkgs/subpakcage-a"]
+	path = pkgs/subpakcage-a
+	url = git@github.com:KAkikakuFukuhara/subpakcage-a.git
